@@ -1,8 +1,10 @@
-# Project Starter Boilerplate
+# Expanding Cards
 
 ## Description
 
-This is very simple boilerplate for creating mini projects in HTML, CSS & JavaScript that relate to the DOM (Document Object Model).
+A small proof of concept toggling cards that improve user interface. The styled panels have background images and headings which uses flexbox alignment to stay centered. Toggling javascript event listeners trigger an 'active' CSS class which expands each card using a CSS transition.
+
+These cards will only contain background images, but they could be made into testimonials or FAQ's on a website.
 
 ## Installation
 
@@ -14,3 +16,5 @@ This is very simple boilerplate for creating mini projects in HTML, CSS & JavaSc
 
 4. Paste the command you copied from Bitbucket, for example:
    `$ git clone https://github.com/hurlockr/project-starter-boilerplate.git`
+
+5. Navigate to `http://127.0.0.1:5500/`
